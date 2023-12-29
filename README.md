@@ -1,6 +1,7 @@
-# NEW-PROJECT
+# PROJECT-1 (Addition Game)
+
+Author - Partha Kapri
+<br>
 This is my first git repository.
 <br>
-This is my first web-dev project.
-<br>
-Author - Partha Kapri
+This is my first Web-Development project with HTML, CSS & JavaScript.
