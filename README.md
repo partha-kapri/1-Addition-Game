@@ -1,4 +1,4 @@
-# PROJECT-1 (Addition Game)
+# Project-1-Addition-Game
 
 # Author - Partha Kapri
 <br>
