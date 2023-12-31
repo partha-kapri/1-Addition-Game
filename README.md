@@ -4,4 +4,4 @@
 <br>
 # Git Repository #
 <br>
-# This is a "Addition-Game" Web-Development project with HTML, CSS & JavaScript #
+# This is a "Addition-Game" Web-Development project using HTML, CSS & JavaScript #
