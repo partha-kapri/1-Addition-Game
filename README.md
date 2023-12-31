@@ -2,6 +2,6 @@
 
 # Author - Partha Kapri
 <br>
-# git repository #
+# Git Repository #
 <br>
-# This is my first Web-Development project with HTML, CSS & JavaScript #
+# This is a "Addition-Game" Web-Development project with HTML, CSS & JavaScript #
